@@ -1,6 +1,6 @@
 {
   "name": "isnotarray-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A handful tool to check if an argument is not an array built on top of a very famous library isarray.",
   "main": "index.js",
   "repository": {
