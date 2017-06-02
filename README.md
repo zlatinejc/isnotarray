@@ -5,7 +5,7 @@
 ## Usage
 
 ```js
-var isNotArray = require('isnotarray');
+var isNotArray = require('isnotarray-js');
 
 console.log(isNotArray({})); // => true
 console.log(isNotArray([])); // => false
