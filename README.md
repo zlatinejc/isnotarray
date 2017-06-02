@@ -17,7 +17,7 @@ console.log(isNotArray([])); // => false
 With [npm](https://npmjs.org) do
 
 ```bash
-$ npm install isnotarray
+$ npm install isnotarray-js
 ```
 
 Then bundle for the browser with
