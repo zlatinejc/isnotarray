@@ -23,6 +23,10 @@ $ npm install isnotarray-js
 Then bundle for the browser with
 [browserify](https://github.com/substack/node-browserify).
 
+To keep this site running ad-free, I would appreciate a donation of gratitude.
+
+[![Alt text](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](http://paypal.me/zlatinejc)
+
 ## License
 
 (MIT)
